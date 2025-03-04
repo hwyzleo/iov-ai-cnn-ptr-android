@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IOV AI CNN PTR</string>
+    <string name="start_inference">开始推理</string>
+    <string name="stop_inference">停止推理</string>
+    <string name="inference_result">推理结果: %1$s</string>
+    <string name="processing">处理中...</string>
+    <string name="road_type_unknown">未知路面</string>
+    <string name="road_type_asphalt">沥青路面</string>
+    <string name="road_type_concrete">混凝土路面</string>
+    <string name="road_type_gravel">砂石路面</string>
+    <string name="road_type_dirt">泥土路面</string>
+</resources>

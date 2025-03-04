@@ -1,0 +1,2 @@
+rootProject.name = "iov-ai-cnn-ptr-android"
+include ':app'
